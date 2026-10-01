@@ -1,0 +1,26 @@
+target_sources(${PROJECT_NAME} PRIVATE
+	VertexArray.hpp
+	VertexArray.cpp
+	VertexBuffer.hpp
+	VertexBuffer.cpp
+	IndexBuffer.hpp
+	IndexBuffer.cpp
+	FrameBuffer.hpp
+	FrameBuffer.cpp
+	RenderBuffer.hpp
+	RenderBuffer.cpp
+	Shader.hpp
+	Shader.cpp
+	Texture.hpp
+	Texture.cpp
+	Vertex.hpp
+	Vertex.cpp
+	Mesh.hpp
+	Mesh.cpp
+	Model.hpp
+	Model.cpp
+	Translate.hpp
+	Translate.cpp
+	Camera.hpp
+	Camera.cpp
+)
